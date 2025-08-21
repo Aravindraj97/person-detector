@@ -1,0 +1,22 @@
+# Ignore your virtual environment
+person_detec/
+
+# Common Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtualenvs (general names)
+venv/
+env/
+.venv/
+ENV/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
